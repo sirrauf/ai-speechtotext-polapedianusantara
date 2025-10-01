@@ -1,0 +1,7 @@
+speechrecognition
+pyaudio
+pyttsx3
+ezdxf
+svgwrite
+numpy
+trimesh
